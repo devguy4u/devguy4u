@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 ## 🔭 Who I😄 am
 
-### Front Edn Developer
-### Back End Developer
-### Full Stack Developer
+Passionate about *continuous learning* and *new challenges*, I drive *impactful contributions*.
+
 
